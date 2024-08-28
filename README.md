@@ -1,15 +1,18 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:
+# Developed by:SUBASHINI S
+# REG NO:212222240106
+# Date:
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python for weather classification.
 
 ### ALGORITHM:
-Import necessary libraries (NumPy, Matplotlib)
-Load the dataset
-Calculate the linear trend values using least square method
-Calculate the polynomial trend values using least square method
-
-End the program
+```
+ 1.Import necessary libraries (NumPy, Matplotlib)
+2.Load the dataset
+3.Calculate the linear trend values using least square method
+4.Calculate the polynomial trend values using least square method
+5.End the program
+```
 ### PROGRAM:
 ```
 import numpy as np
